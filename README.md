@@ -152,5 +152,6 @@ Quer trocar uma ideia ou<br/>colaborar em projetos?<br/>Fique à vontade!
 </div>
 
 <div align="center">
-  <sub>Feito com por <strong>Davi Vidal</strong></sub>
+  <sub>Feito por <strong>Davi Vidal</strong></sub>
 </div>
+
