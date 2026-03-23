@@ -10,7 +10,7 @@
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=435&lines=JESUS+SAVES+%3C3" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=700&lines=JESUS+SAVES+%3C3;Turning+ideas+into+beautiful+web+experiences" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -55,8 +55,8 @@ Mergulhando em algoritmos,<br/>estruturas de dados e muito mais
 
 ### 💻 Estudando Agora
 
-Focado em **Python**<br/>
-Automação, scripts e<br/>desenvolvimento contínuo
+Focado em **Python** e **Desenvolvimento Web**<br/>
+Automação, scripts e criação de<br/>interfaces modernas e funcionais
 
 <img src="https://img.shields.io/badge/📚_Linguagem-Python-3fb950?style=for-the-badge" />
 
