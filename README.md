@@ -10,7 +10,7 @@
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=435&lines=console.log(%22Hello+World!%22);+%F0%9F%91%8B;Apaixonado+por+tecnologia+%F0%9F%92%BB;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=435&lines=JESUS+SAVES+%3C3" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -24,21 +24,15 @@
 
 ## 🧑‍💻 Sobre Mim
 
-```c
-// sobre_mim.c
-#include <stdio.h>
+```python
+# sobre_mim.py
+nome = "Davi Vidal"
+curso = "Ciência da Computação"
+linguagem = "Python"
 
-int main() {
-    char *nome      = "Davi Vidal";
-    char *curso     = "Ciência da Computação";
-    char *linguagem = "C";
-
-    printf("Olá! Eu sou %s\n", nome);
-    printf("Curso: %s\n", curso);
-    printf("Estudando: %s\n", linguagem);
-
-    return 0;
-}
+print(f"Olá! Eu sou {nome}")
+print(f"Curso: {curso}")
+print(f"Estudando: {linguagem}")
 ```
 
 <br/>
@@ -61,10 +55,10 @@ Mergulhando em algoritmos,<br/>estruturas de dados e muito mais
 
 ### 💻 Estudando Agora
 
-Focado na **linguagem C**<br/>
-Programação de baixo nível,<br/>ponteiros e alocação de memória
+Focado em **Python**<br/>
+Automação, scripts e<br/>desenvolvimento contínuo
 
-<img src="https://img.shields.io/badge/📚_Linguagem-C-3fb950?style=for-the-badge" />
+<img src="https://img.shields.io/badge/📚_Linguagem-Python-3fb950?style=for-the-badge" />
 
 </td>
 <td align="center" width="33%">
@@ -89,7 +83,7 @@ Quer trocar uma ideia ou<br/>colaborar em projetos?<br/>Fique à vontade!
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
@@ -154,5 +148,3 @@ Quer trocar uma ideia ou<br/>colaborar em projetos?<br/>Fique à vontade!
 <div align="center">
   <sub>Feito por <strong>Davi Vidal</strong></sub>
 </div>
-
-
